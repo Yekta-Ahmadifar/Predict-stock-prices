@@ -15,3 +15,7 @@ An end-to-end Machine Learning and Data Science project that analyzes historical
 2. Install dependencies:
    ```bash
    pip install streamlit pandas numpy scikit-learn joblib
+
+3. Launch the web application:
+
+streamlit run app.py
