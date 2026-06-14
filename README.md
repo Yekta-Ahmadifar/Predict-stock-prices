@@ -1,3 +1,3 @@
 # Predict-stock-prices
-this project includes two main parts
-Part 1 Includes an EDA
+#this project includes two main parts
+#Part 1 Includes an EDA
